@@ -1,7 +1,7 @@
 # GL Introduction
 
 Hello! I am **Gideon Ong**, a Year 2 student from **Temasek Polytechnic**. I am currently taking a **Diploma in Cybersecurity and Digital Forensics**. Welcome to my Guided Learning journey!
-![Screenshot of my Assembly Code](images/profile.png)
+![Screenshot of my Assembly Code](IMG20250618123802.jpg)
 ## What is this Guided Learning Subject?
 The subject introduces students to the concepts and process of self-directed learning in a chosen area of inquiry. The learning will be captured and showcased through a curated portfolio, with the aim of broadening and deepening a student’s knowledge and skills.
 
